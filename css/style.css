@@ -1,0 +1,37 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+.logo{
+	width: 120px;
+	height: 120px;
+	margin-top: 20px;
+	object-fit: contain;
+}
+
+.cover {
+	margin: auto;
+	width: 100%;
+	max-height:500px;
+	object-fit: cover;
+}
+
+.work{
+	max-height: 300px;
+	width: auto;
+	margin: auto;
+}
+
+.text-muted{
+	color: #BCBBBB;
+}
+
+.textthin{
+	font-weight: 100;
+}
+
+.titlesuper{
+	font-size: 60px;
+}
