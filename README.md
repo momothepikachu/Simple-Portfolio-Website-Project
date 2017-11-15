@@ -1,5 +1,7 @@
 ### Simple-Portfolio-Website-Project (with Bootstrap and other Frameworks)
-![screenshot](/screenshot.png)
+![screenshot](images/screenshot.png)
+
+![screenshot](images/screenshot2.png)
 This project is part of the Udacity Front-End Web Developer Nanodegree portfolio. 
 
 **Reference**
