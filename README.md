@@ -1,4 +1,4 @@
-# Simple-Portfolio-Website-Project (with Bootstrap and other Frameworks)
+# Simple-Portfolio-Website-Project (with Bootstrap)
  
 ## Project Overview
 This website utilizes a grid based layout such that the body has an element that serves as a container for rows and columns.
