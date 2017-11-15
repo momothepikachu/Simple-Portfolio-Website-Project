@@ -5,7 +5,7 @@ This website utilizes a grid based layout such that the body has an element that
 All content is responsive and displays on all display sizes. (Desktop, Tablet, Mobile)
 
 ### Display on Desktop:
-- ![screenshot](images/screenshot.png)
+- [screenshot](images/screenshot.png)
 
 
 
