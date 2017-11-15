@@ -4,12 +4,13 @@
 This website utilizes a grid based layout such that the body has an element that serves as a container for rows and columns.
 All content is responsive and displays on all display sizes. (Desktop, Tablet, Mobile)
 
-
+### Display on Desktop:
 ![screenshot](images/screenshot.png)
 
 
 
-
+### Display on Mobile:
+![screenshot](images/screenshot3.png)
 
 
 
