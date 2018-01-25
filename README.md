@@ -6,14 +6,18 @@ All content is responsive and displays on all display sizes. (Desktop, Tablet, M
 
 #### Display on Desktop:
 ![screenshot](images/screenshot.png)
+
 ---
 #### Display on Mobile:
 ![screenshot](images/screenshot3.png)
 
 
+
+
 ---
 #### Click one of the Featured Works to open the Modal Box: 
 ![screenshot](images/screenshot2.png)
+
 ---
 **Reference**
 - [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
