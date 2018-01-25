@@ -11,9 +11,6 @@ All content is responsive and displays on all display sizes. (Desktop, Tablet, M
 #### Display on Mobile:
 ![screenshot](images/screenshot3.png)
 
-
-
-
 ---
 #### Click one of the Featured Works to open the Modal Box: 
 ![screenshot](images/screenshot2.png)
