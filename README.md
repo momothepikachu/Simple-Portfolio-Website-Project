@@ -5,15 +5,11 @@ This website utilizes a grid based layout such that the body has an element that
 All content is responsive and displays on all display sizes. (Desktop, Tablet, Mobile)
 
 #### Display on Desktop:
-![screenshot](images/screenshot.png)
+![screenshot](images/browser.gif)
 
 ---
 #### Display on Mobile:
 ![screenshot](images/screenshot3.png)
-
----
-#### Click one of the Featured Works to open the Modal Box: 
-![screenshot](images/screenshot2.png)
 
 ---
 **Reference**
